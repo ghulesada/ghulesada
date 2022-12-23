@@ -2,6 +2,7 @@ Hello, my name is **Sadanand Ghule** and I am a data science fresher. I have rec
 
 I love to connect with people
 ghulesada1998@gmai.com
+
 [LinkedIn](https://www.linkedin.com/in/sadanandghule/) | [Twitter](https://twitter.com/sadanandghule)
 
 <!---
