@@ -1,4 +1,4 @@
-Hello, my name is **Sadanand Ghule** and I am a data science fresher. I have recently graduated with a **Post Graduate certification in Data Science** and am excited to start my career in the field of data science. I have a strong foundation in mathematics, statistics, and programming, and am eager to apply these skills to real-world problems. **I am passionate about using data to drive business decisions and am looking forward to learning from experienced professionals in the field.**
+**﻿Seasoned Data Analyst with 1 year of experience**, specializing in **Business Intelligence, Data Visualization, Data Analysis, Market Research, and Project Management**. Proven success in producing **insightful dashboards, reports and presentations**, identifying key performance indicators, and collaborating effectively with cross-functional teams. **Proficient in Python, Excel (Advance), PowerPoint, Tableau, Power BI, and SQL**. Eager to leverage my skills and commitment to excellence in Data Analyst role, contributing valuable insights and driving impactful outcomes for your team & clients.
 
 I love to connect with people
 ghulesada1998@gmai.com
